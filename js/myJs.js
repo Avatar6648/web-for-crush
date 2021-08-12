@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lờihahahahahaahhaha mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Hellu Bae!",
+  text2: "Anh có chuyện này muốn hỏi, chuẩn bị tinh thần nha.",
+  text3: "Bae có thương anh hăm ._.",
+  text4: "Có muốn về nhà với anh hăm",
+  text5: "Nghĩ sao zi???",
+  text6: "Tất nhiên là muốn rùi <3 <3 <3",
+  text7: "Nói anh nghe lí do sao thương anh xem",
+  text8: "Gửi cho anh <3",
+  text9: "Tại anh đẹp trai quá mà :)))",
+  text10: "Anh biết mà ^^ Yêu Em 300.000",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Hết dịch qua với anh nha bae <3 còn chờ gì mà không nt trả lời anh",
   text12: "Okii lunn <3",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "http://fb.com/gauconkhongngu";
           },
         });
       }
